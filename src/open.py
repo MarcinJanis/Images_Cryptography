@@ -6,13 +6,8 @@ import sys
 
 def startRoot():
     startScreen.destroy()
-    # if getattr(sys, 'frozen', False):
-    #     base_path = sys._MEIPASS
-    # else:
-    #     base_path = os.path.dirname(__file__)
-
-    # root_path = "root.py"#os.path.join(base_path, "root.py")
-    subprocess.run(["root.exe"])
+    subprocess.run(['python', 'root.py'])
+    #subprocess.run(["root.exe"])
 def close():
     startScreen.destroy()
 
