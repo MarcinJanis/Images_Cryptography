@@ -22,6 +22,8 @@ Simple and user-friendly interface
    
       .\open.exe
 
+   • In this repository there are test images with corresponding keys
+
 🔐 Algorithms Used
 • `Visual Secret Sharing`
 
