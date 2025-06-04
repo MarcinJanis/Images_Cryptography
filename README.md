@@ -1,5 +1,5 @@
 🖼️ Images_Cryptography
-A basic project developed for study purposes. This application allows you to encrypt and decrypt images using simple custom algorithms. It's a great way to explore image processing and cryptography concepts hands-on.
+This project explores basic methods of image encryption and decryption using simple custom algorithms.<br>It was developed as part of a study assignment focused on visual cryptography and secure image processing techniques.
 
 🚀 Features
 Load and display images
