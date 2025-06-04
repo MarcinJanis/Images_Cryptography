@@ -77,4 +77,11 @@ Tkinter 8.6
 This is the first version of the project.
 
 Created for educational purposes by two students.
-
+<br>
+<br>
+🪶 Authors:
+<br>
+Marcin Janis
+<br>
+Jan Golenia
+<br> 
