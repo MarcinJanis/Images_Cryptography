@@ -15,11 +15,11 @@ Simple and user-friendly interface
 
    • To start the application, run the `open.py` file (`src/open.py`):
 
-      ***python open.py***
+      python open.py
 
    •  Compiled files (in Release v1.0) are .exe files. To run application execute:
    
-      ***.\open.exe***
+      .\open.exe
 
 🔐 Algorithms Used
 • `Visual Secret Sharing`
