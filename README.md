@@ -1,4 +1,4 @@
-#🖼️ Images_Cryptography
+# 🖼️ Images_Cryptography
 
 This project explores basic methods of image encryption and decryption using simple custom algorithms.<br>It was developed as part of a study assignment focused on visual cryptography and secure image processing techniques.
 
