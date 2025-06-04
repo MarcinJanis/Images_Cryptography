@@ -13,10 +13,15 @@ Simple and user-friendly interface
 
 🚀 How to run
 
-   To start the application, run the `open.py` file (`src/open.py`):
+   • To start the application, run the `open.py` file (`src/open.py`):
 
-   ***python open.py***
-   
+      ***python open.py***
+
+   •  Compiled files (as exe files) are ander link: `https://drive.google.com/drive/folders/17b1T_o0O-ANMrGpQ0TCBT3sZm_X83Aum?usp=sharing`,
+      Nn `\dist` filder. 
+      Then execute command: 
+
+      ***.\open.exe***
 
 🔐 Algorithms Used
 • `Visual Secret Sharing`
