@@ -25,7 +25,7 @@ Simple and user-friendly interface
    • In this repository there are test images with corresponding keys in `Input_images` folder
    
 
-🔐 Algorithms Used
+🔐 Algorithms Used <br><br>
 • `Visual Secret Sharing`
 
   Visual Secret Sharing divides the input binary image into n shares.
@@ -67,6 +67,7 @@ Simple and user-friendly interface
   Encrypted or decrypted image
 
 🛠️ Technologies Used
+
 Programming Language:
 
 Python 3.11.9
