@@ -22,7 +22,8 @@ Simple and user-friendly interface
    
       .\open.exe
 
-   • In this repository there are test images with corresponding keys
+   • In this repository there are test images with corresponding keys in `Input_images` folder
+   
 
 🔐 Algorithms Used
 • `Visual Secret Sharing`
