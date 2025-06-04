@@ -11,6 +11,13 @@ Encrypt or decrypt images using basic custom algorithms:
 
 Simple and user-friendly interface 
 
+🚀 How to run
+
+   To start the application, run the `open.py` file (`src/open.py`):
+
+   ***python open.py***
+   
+
 🔐 Algorithms Used
 • `Visual Secret Sharing`
   Visual Secret Sharing divides the input binary image into n shares.
