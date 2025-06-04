@@ -17,8 +17,8 @@ Simple and user-friendly interface
 
       ***python open.py***
 
-   •  Compiled files (as exe files) are ander link: `https://drive.google.com/drive/folders/17b1T_o0O-ANMrGpQ0TCBT3sZm_X83Aum?usp=sharing`,
-      Nn `\dist` filder. 
+   •  Compiled files (as exe files) are ander link: `https://drive.google.com/drive/folders/17b1T_o0O-ANMrGpQ0TCBT3sZm_X83Aum?usp=sharing`. 
+      In `\dist` filder. 
       Then execute command: 
 
       ***.\open.exe***
