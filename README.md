@@ -39,13 +39,13 @@ Simple and user-friendly interface
   
   Input:
   
-  Binary image
+  &nbsp;&nbsp;Binary image
   
-  Parameter n – number of shares to create
+  &nbsp;&nbsp;Parameter n – number of shares to create
   
   Output:
   
-  n share images
+  &nbsp;&nbsp;n share images
 
 • `One-Time Pad`
 
@@ -58,13 +58,13 @@ Simple and user-friendly interface
   
   Input:
   
-  Binary image
+  &nbsp;&nbsp;Binary image
   
-  Key image (same size as input)
+  &nbsp;&nbsp;Key image (same size as input)
   
   Output:
   
-  Encrypted or decrypted image
+  &nbsp;&nbsp;Encrypted or decrypted image
 
 🛠️ Technologies Used
 
