@@ -1,12 +1,13 @@
-🖼️ Images_Cryptography
-A basic project developed for study purposes. This application allows you to encrypt and decrypt images using simple custom algorithms. It's a great way to explore image processing and cryptography concepts hands-on.
+# 🖼️ Images_Cryptography
+
+This project explores basic methods of image encryption and decryption using simple custom algorithms.<br>It was developed as part of a study assignment focused on visual cryptography and secure image processing techniques.
 
 🚀 Features
 Load and display images
 
 Encrypt or decrypt images using basic custom algorithms:
 
-• `Visual Secret Sharing`
+• `Visual Secret Sharing` <br>
 • `One-Time Pad`
 
 Simple and user-friendly interface 
@@ -15,16 +16,18 @@ Simple and user-friendly interface
 
    • To start the application, run the `open.py` file (`src/open.py`):
 
-      ***python open.py***
+      python open.py
 
-   •  Compiled files (as exe files) are ander link: `https://drive.google.com/drive/folders/17b1T_o0O-ANMrGpQ0TCBT3sZm_X83Aum?usp=sharing`, <br>
-      in `\dist` filder. 
-      Then execute command: 
+   •  Compiled files (in Release v1.0) are .exe files. To run application execute:
+   
+      .\open.exe
 
-      ***.\open.exe***
+   • In this repository there are test images with corresponding keys in `Input_images` folder
+   
 
-🔐 Algorithms Used
+🔐 Algorithms Used <br><br>
 • `Visual Secret Sharing`
+
   Visual Secret Sharing divides the input binary image into n shares.
   Each share alone reveals no information about the original image.
   All n shares are required to decrypt the image.
@@ -36,15 +39,16 @@ Simple and user-friendly interface
   
   Input:
   
-  Binary image
+  &nbsp;&nbsp;Binary image
   
-  Parameter n – number of shares to create
+  &nbsp;&nbsp;Parameter n – number of shares to create
   
   Output:
   
-  n share images
+  &nbsp;&nbsp;n share images
 
 • `One-Time Pad`
+
   This algorithm performs a pixel-wise bitwise XOR between the input image and a key image.
   The key image must be the same size as the input image.
   Decryption is done by applying XOR again with the same key.
@@ -54,15 +58,16 @@ Simple and user-friendly interface
   
   Input:
   
-  Binary image
+  &nbsp;&nbsp;Binary image
   
-  Key image (same size as input)
+  &nbsp;&nbsp;Key image (same size as input)
   
   Output:
   
-  Encrypted or decrypted image
+  &nbsp;&nbsp;Encrypted or decrypted image
 
 🛠️ Technologies Used
+
 Programming Language:
 
 Python 3.11.9
@@ -75,8 +80,11 @@ OpenCV 4.11.0.86
 
 Tkinter 8.6
 
-📌 Notes
-This is the first version of the project.
-
-Created for educational purposes by two students.
-
+<br>
+<br>
+🪶 Authors:
+<br>
+Marcin Janis
+<br>
+Jan Golenia
+<br> 
