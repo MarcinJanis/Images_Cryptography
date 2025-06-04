@@ -6,7 +6,7 @@ Load and display images
 
 Encrypt or decrypt images using basic custom algorithms:
 
-• `Visual Secret Sharing`
+• `Visual Secret Sharing` <br>
 • `One-Time Pad`
 
 Simple and user-friendly interface 
