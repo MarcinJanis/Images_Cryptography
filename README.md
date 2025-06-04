@@ -23,6 +23,7 @@ Simple and user-friendly interface
 
 🔐 Algorithms Used
 • `Visual Secret Sharing`
+
   Visual Secret Sharing divides the input binary image into n shares.
   Each share alone reveals no information about the original image.
   All n shares are required to decrypt the image.
@@ -43,6 +44,7 @@ Simple and user-friendly interface
   n share images
 
 • `One-Time Pad`
+
   This algorithm performs a pixel-wise bitwise XOR between the input image and a key image.
   The key image must be the same size as the input image.
   Decryption is done by applying XOR again with the same key.
@@ -73,10 +75,6 @@ OpenCV 4.11.0.86
 
 Tkinter 8.6
 
-📌 Notes
-This is the first version of the project.
-
-Created for educational purposes by two students.
 <br>
 <br>
 🪶 Authors:
