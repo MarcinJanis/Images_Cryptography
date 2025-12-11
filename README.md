@@ -5,7 +5,7 @@ This project explores basic methods of image encryption and decryption using sim
 🚀 Features
 Load and display images
 
-Encrypt or decrypt images using basic custom algorithms:
+Encrypt or decrypt images using basic self-implemented algorithms:
 
 • `Visual Secret Sharing` <br>
 • `One-Time Pad`
